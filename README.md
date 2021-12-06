@@ -16,7 +16,11 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML, and CSS.
 
 #### Bronze
 
+-
+
 #### Silver
+
+-
 
 #### Gold
 
