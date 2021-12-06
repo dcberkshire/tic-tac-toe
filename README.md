@@ -38,3 +38,9 @@ A browser-based Tic Tac Toe game coded in JavaScript, HTML, and CSS.
 ### Wireframes
 
 ![tic tac toe initial screen](./assets/wireframe.jpg)
+
+
+## Installation
+
+1. Clone down the repositroy to your machine.
+2. Open the `index.html` in the browser.
